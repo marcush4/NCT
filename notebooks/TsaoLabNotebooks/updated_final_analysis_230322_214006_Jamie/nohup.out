@@ -1,0 +1,52 @@
+Working on: /home/marcush/Data/TsaoLabData/neural_control_output_new/decoding_deg_230322_214006_Jamie/decoding_deg_230322_214006_Jamie_glom.pickle
+0it [00:00, ?it/s]Traceback (most recent call last):
+  File "/home/marcush/projects/neural_control/notebooks/TsaoLabNotebooks/updated_final_analysis_230322_214006_Jamie/./calc_su_script.py", line 21, in <module>
+    from loaders import load_sabes, load_peanut, load_cv, load_tsao
+  File "/home/marcush/projects/neural_control/loaders.py", line 15, in <module>
+    import mat73
+ModuleNotFoundError: No module named 'mat73'
+Working on: /home/marcush/Data/TsaoLabData/neural_control_output_new/decoding_deg_230809_140453_Alfie/decoding_deg_230809_140453_Alfie_glom.pickle
+0it [00:00, ?it/s]/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+1it [1:24:35, 5075.04s/it]1it [1:24:35, 5075.04s/it]
+Done with 1 fold
+Done with 2 fold
+Done with 3 fold
+Done with 4 fold
+Done with 5 fold
+0it [00:00, ?it/s]/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+1it [1:29:04, 5344.16s/it]1it [1:29:04, 5344.16s/it]
+Done with 1 fold
+Done with 2 fold
+Done with 3 fold
+Done with 4 fold
+Done with 5 fold
+0it [00:00, ?it/s]/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+1it [21:37, 1297.45s/it]1it [21:37, 1297.45s/it]
+Done with 1 fold
+Done with 2 fold
+Done with 3 fold
+Done with 4 fold
+Done with 5 fold
+/home/marcush/Data/anaconda3/envs/ncontrol/lib/python3.9/site-packages/sklearn/metrics/_classification.py:2981: UserWarning: The y_pred values do not sum to one. Starting from 1.5 thiswill result in an error.
+  warnings.warn(
+1it [39:29, 2369.26s/it]1it [39:29, 2369.26s/it]
+Done with 1 fold
+Done with 2 fold
+Done with 3 fold
+Done with 4 fold
+Done with 5 fold

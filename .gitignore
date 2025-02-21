@@ -1,0 +1,10 @@
+*.pyc
+*.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/*
+*.dat
+*.png
+*.pdf
+*.npz
+*.pkl
+notebooks/TsaoLabNotebooks/FOB_param_search/raw_decoding.ipynb
+notebooks/TsaoLabNotebooks/actual_analysis_batch/importance_scores.ipynb
